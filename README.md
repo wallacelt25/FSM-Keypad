@@ -29,9 +29,9 @@ From this transition we can conlude that the boolean equation is Next State = In
 This is a simple simulation of the FSM:
 This simulation shows that where the C program will read an input event (0 or 1) from the user and then updates the current state of the keypad system using the boolean equation where Next State = Input Event. It will then print the current state  (0 or 1) to the screen.
 
-*This first picture is when Input Event = 0 and current state = 0
+*This first picture is when Input Event = 0 and current state = 0*
 ![fsm c - Untitled (Workspace) - Visual Studio Code 1_11_2023 1_05_20 AM](https://user-images.githubusercontent.com/114073349/211628384-c710b578-fb43-4e58-8045-a8c926cd55ae.png)
 
-*The second picture is when Input Event = 1 and current state = 0
+*The second picture is when Input Event = 1 and current state = 0*
 ![fsm c - Untitled (Workspace) - Visual Studio Code 1_11_2023 1_07_10 AM](https://user-images.githubusercontent.com/114073349/211628815-18b8a8a9-90b1-4457-a51a-dc20672f222a.png)
 
