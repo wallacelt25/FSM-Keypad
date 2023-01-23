@@ -21,12 +21,12 @@ The real example of a system that I took was:
 ## Visualisation
 
 - ### Idle (00)
-![test](Images/idle.png)
+![test](images/idle.png)
 
 - ### Inputting (01)
-![test](Images/inputting.png)
+![test](images/inputting.png)
 
 - ### Accepted (10)
-![test](Images/accepted.png)
+![test](images/accepted.png)
 
 
